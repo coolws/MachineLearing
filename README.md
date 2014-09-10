@@ -1,7 +1,7 @@
-1. 	UserBasedCF.py and movie.dat is an algorithm about user based Collaborative Filtering.
+1. 	an algorithm based on user-based Collaborative Filtering by UserBasedCF.py and movie.dat.
 
-2.  ItemBasedCF.py and movie.dat is an algorithm about item based Collaborative Filtering.	
+2.  an algorithm based on item-based Collaborative Filtering	by ItemBasedCF.py and movie.dat.
 
-3.  K-means.py and k_means.csv is an algorithm about k_means.
+3.  an algorithm based on k_means by K-means.py and k_means.csv
 
-movie.dat is from movieLen .
+ps: movie.dat is from movieLen .
