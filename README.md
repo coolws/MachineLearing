@@ -4,4 +4,7 @@
 
 3.  an algorithm based on k_means by K-means.py and k_means.csv
 
+4.  an algorithm based on SVM in SVM directory
+  
+
 ps: movie.dat is from movieLen .
